@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"79d108723f9f494175a0e85f38f88bdf","name":"com.bookstore.api.tests.BookApiTest","statistic":{"failed":8,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":13}},{"uid":"7471f4b6b20c742c686d7ddfcf2b5f83","name":"com.bookstore.api.tests.AuthorApiTest","statistic":{"failed":8,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":13}}]}
